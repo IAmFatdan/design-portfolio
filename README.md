@@ -1,6 +1,6 @@
 # Fatdan Graphic Design Portfolio — v6
 
-This is an updated version of the Fatdan website using the artwork provided in `Designs.zip`.
+This is an updated version of the Fatdan website.
 
 ## What's new in v4
 
